@@ -240,4 +240,3 @@ python -m http.server 8080
 - 在 `data.js` 的 `INDUSTRY_TEMPLATES` 中可自定义新增行业模板
 - 在 `data.js` 的 `COLOR_SCHEMES` 中可自定义新增配色方案
 
-> AI生成
